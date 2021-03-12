@@ -10,6 +10,8 @@ Then we are plotting moving averages with Adj Close price on the same grapg to v
 
 After that we are creating a function to determine when to buy and when to sell. We can use the graph plotted above to determine the relationship.
 
+We are also trying to incorporate the picks as they are very good times to sell.
+
 we are using buy list and sell list to append the Adj Close price at which we are buying and selling
 
 Now we are going to plot Adj Close price with the buy list and sell list to visualize the time and amount at which we are buying and selling.
