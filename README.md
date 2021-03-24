@@ -22,4 +22,3 @@ Finally we are calculating the profit that you can gain via following this strat
 
 you can not short sell
 
-you need to buy and sell same amount of shares all the time.
